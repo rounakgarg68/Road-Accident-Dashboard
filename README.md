@@ -26,6 +26,7 @@ The **Road Accident Dashboard** project focuses on analyzing road accident data 
 ### Relation between Casualties by Area and by Day/Night
 
 ## Stakeholders
+![Stakeholders](https://github.com/rounakgarg68/Road-Accident-Dashboard/assets/87636522/8ab50614-3451-40a7-aa41-d4a8fff12d73)
 
 
 ## Technologies Used
