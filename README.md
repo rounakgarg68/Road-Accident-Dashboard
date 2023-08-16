@@ -41,5 +41,5 @@ The **Road Accident Dashboard** project focuses on analyzing road accident data 
 
 ## Contact
 
-Connect with me on LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername/)
+Connect with me on LinkedIn: https://www.linkedin.com/in/rounak-garg-77164719b/
 
