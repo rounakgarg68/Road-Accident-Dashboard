@@ -2,6 +2,9 @@
 
 Welcome to the Road Accident Dashboard project repository. This project demonstrates a comprehensive data analysis process and the creation of an engaging dashboard using Microsoft Excel. By following structured steps from data collection to visualization, this project highlights my proficiency in data analysis and visualization techniques.
 
+![Dashboard](https://github.com/rounakgarg68/Road-Accident-Dashboard/assets/87636522/b5c0f7ae-42a9-4ae9-8484-db6b4e8addfc)
+
+
 ## Project Overview
 
 The **Road Accident Dashboard** project focuses on analyzing road accident data and presenting insights through an interactive Excel dashboard. The primary phases of the project include:
