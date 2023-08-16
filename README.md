@@ -15,7 +15,15 @@ The **Road Accident Dashboard** project focuses on analyzing road accident data 
 
 ## Requirements
 
-![Requirements](https://github.com/rounakgarg68/Road-Accident-Dashboard/assets/87636522/737a4ff1-f4e5-4483-b071-f7daafc8398a)
+### Clients wants to create a Road Accident Dashboard for year 2021 and 2022 so they can have insight on the below requirements-
+
+### Primary KPI - Total Casualities taken place after the accident
+### Secondary KPI - Total Casualities & percentage of total with respect to accident severity and maximum casualities by type of vehicle
+### Third KPI - Total Casualities with respect to vehicle type
+### Fourth KPI - Monthly trend showing comparision of casualities for current year and previous year
+### Fifth KPI - Maximum casualties by Road Type
+### Sixth KPI - Distribution of total casualties by Road Surface
+### Relation between Casualties by Area and by Day/Night
 
 ## Stakeholders
 
